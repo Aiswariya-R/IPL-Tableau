@@ -27,7 +27,8 @@ The dataset used for this analysis consists of IPL match data from 2021 to 2023,
 6. **Best Playing 11:** Suggests the ideal playing 11 based on the data from 2021-2023 and additional research.
 
 ## Tools Used
-- Google BigQuery: Used for data cleaning, preprocessing, and querying.
+- Excel: Used for data cleaning and preprocessing.
+- Google BigQuery: Analysing and querying
 - Tableau: Utilized for creating visualizations and dashboards to present the insights derived from the data.
 
 ## Visualisations
@@ -43,7 +44,7 @@ The visualizations are designed to provide clear and insightful representations 
 4. **User-Friendly:** Designed to be intuitive and easy to navigate, making it accessible for both casual fans and data enthusiasts.
 
 ### Accessing Visualizations
-The visualizations are hosted on Tableau Public and can be accessed through the following link: [Tableau Dashboards](https://public.tableau.com/app/profile/aiswariya.r2669/viz/iplanalysiscodebasicsproject/index)
+The visualizations are hosted on Tableau Public and can be accessed through the following link: [Tableau Dashboard](https://public.tableau.com/app/profile/aiswariya.r2669/viz/iplanalysiscodebasicsproject/index)
 
 
 
