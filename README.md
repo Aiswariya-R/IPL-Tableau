@@ -6,6 +6,9 @@ Welcome to the repository for "IPL 2021-2023 Performance: Data Insights and Anal
 ## Dataset
 The dataset used for this analysis consists of IPL match data from 2021 to 2023, including information on matches, players, teams, runs scored, wickets taken, and various other performance metrics. The dataset has been cleaned and preprocessed to ensure accuracy and consistency in the analysis.
 
+## Data Cleaning
+The dataset was cleaned using Excel to ensure accuracy and consistency. The cleaning process involved handling missing values, correcting data types, checking for duplicates and ensuring that the dataset is ready for analysis.
+
 ## Primary Analysis
 1. **Top 10 Batters by Total Runs:** Identifies the top 10 batters based on total runs scored over the past three years.
 2. **Top 10 Batters by Batting Average:** Identifies the top 10 batters based on batting average, considering a minimum of 60 balls faced in each season.
@@ -19,6 +22,7 @@ The dataset used for this analysis consists of IPL match data from 2021 to 2023,
 10. **Top 2 Teams by Wins Chasing Targets:** Analyzes the top 2 teams with the highest number of wins achieved by chasing targets over the past three years.
 
 ## Secondary Analysis
+The secondary analysis includes predictions and additional insights:
 1. **Orange Cap Predictions for 2024:** Predicts the potential top run-scorer for the 2024 season.
 2. **Purple Cap Predictions for 2024:** Predicts the potential top wicket-taker for the 2024 season.
 3. **Winner and Runner-Up Predictions:** Forecasts the potential winner and runner-up teams for the 2024 season.
