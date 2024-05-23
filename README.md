@@ -50,5 +50,6 @@ The visualizations are designed to provide clear and insightful representations 
 ### Accessing Visualizations
 The visualizations are hosted on Tableau Public and can be accessed through the following link: [Tableau Dashboard](https://public.tableau.com/app/profile/aiswariya.r2669/viz/iplanalysiscodebasicsproject/index)
 
-
+## License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Aiswariya-R/IPL-Tableau/blob/main/LICENSE) file for details.
 
