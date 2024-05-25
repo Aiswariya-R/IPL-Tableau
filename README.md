@@ -3,6 +3,19 @@
 ## Overview
 Welcome to the repository for "IPL 2021-2023 Performance: Data Insights and Analysis". This project aims to provide comprehensive insights and analysis into the performance of players and teams in the Indian Premier League (IPL) from 2021 to 2023.The data presented here includes statistics on player performances, team performances, key trends observed across these three seasons and prospective predictions for 2024 season.
 
+### Table of contents
+1. [Introduction](#introduction)
+2. [Dataset](#dataset)
+3. [Data Cleaning](#data-cleaning)
+4. [Primary Analysis](#primary-analysis)
+5. [Secondary Analysis](#secondary-analysis)
+6. [Tools Used](#tools-used)
+7. [Visualisations](#visualisations)
+8. [License](#license)
+
+## Introduction
+The Indian Premier League (IPL) has become one of the most popular T20 cricket leagues globally, featuring top international and domestic cricket talent. This repository analyzes the performances of players and teams across the IPL seasons from 2021 to 2023. The analysis provides insights into various aspects of the game, including batting, bowling, and team dynamics, aimed at understanding trends and predicting future performances.
+
 ## Dataset
 The dataset used for this analysis consists of IPL match data from 2021 to 2023, including information on matches, players, teams, runs scored, wickets taken, and various other performance metrics. The dataset has been cleaned and preprocessed to ensure accuracy and consistency in the analysis.
 
@@ -36,7 +49,7 @@ The secondary analysis includes predictions and additional insights:
 - Tableau: Utilized for creating visualizations and dashboards to present the insights derived from the data.
 
 ## Visualisations
-The visualizations are designed to provide clear and insightful representations of the IPL data, helping you understand trends, performances, and predictions at a glance.
+The visualisations are designed to provide clear and insightful representations of the IPL data, helping you understand trends, performances, and predictions at a glance.
 
 ### Dashboard Features
 1. **Interactivity:** All dashboards are interactive, allowing you to filter and drill down into specific data points for a more detailed analysis.
